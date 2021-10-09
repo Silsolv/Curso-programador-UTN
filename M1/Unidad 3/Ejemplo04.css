@@ -1,0 +1,24 @@
+p{
+    color: blue;
+    line-height: 30px;/*alto de linea*/
+}
+h2{
+    text-align: center;/*alineacion*/
+    background-color: blueviolet;/*fondo de color solido*/
+    text-transform: uppercase;/*mayuscula*/
+}
+
+.destacados{
+    color: red;
+    font-size: 22px;/*tamaño de la fuente*/
+    font-weight: bold;/*negrita*/
+}
+
+#caja{
+    width: 300px;
+    background-color: silver;
+    padding: 20px;/*relleno borde hacia adentro*/
+    border: 3px dashed black;
+    box-sizing: border-box;
+    margin-left: 150px;
+}

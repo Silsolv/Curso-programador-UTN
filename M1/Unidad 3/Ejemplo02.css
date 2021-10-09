@@ -1,0 +1,9 @@
+p{
+    color: blue;
+    line-height: 30px;/*alto de linea*/
+}
+h2{
+    text-align: center;/*alineacion*/
+    background-color: blueviolet;/*fondo de color solido*/
+    text-transform: uppercase;/*mayuscula*/
+}
